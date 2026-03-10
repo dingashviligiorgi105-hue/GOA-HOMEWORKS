@@ -1,0 +1,26 @@
+src/
+  app/
+    App.jsx
+    main.jsx
+    routes.jsx
+  components/
+    Navbar.jsx
+    ProtectedRoute.jsx
+    ProductCard.jsx
+    GameCard.jsx
+  context/
+    cartContext.jsx
+    authContext.jsx
+  data/
+    games.js
+  pages/
+    Home.jsx
+    Products.jsx
+    Games.jsx
+    Cart.jsx
+    About.jsx
+    Login.jsx
+    Signup.jsx
+    Profile.jsx
+  styles/
+    app.css
